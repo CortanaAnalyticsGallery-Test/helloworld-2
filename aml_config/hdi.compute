@@ -1,0 +1,5 @@
+address: mltesthdi-ssh.azurehdinsight.net
+password: AzureMlSecret=hdi#sshuser#e64b866a82b548e48fdf0539efe0bd67
+type: cluster
+username: sshuser
+yarnDeployMode: cluster

@@ -1,0 +1,7 @@
+address: 13.66.30.135
+baseDockerImage: microsoft/mmlspark:plus-0.7.dev7_2.gcfbc920
+nativeSharedDirectory: ~/.azureml/share/
+password: AzureMlSecret=gpuvm#testuser#a6ce59b6a1be4eeb978b95a10222daee
+sharedVolumes: true
+type: remotedocker
+username: testuser
